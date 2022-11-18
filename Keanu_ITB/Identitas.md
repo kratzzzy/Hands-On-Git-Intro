@@ -1,4 +1,4 @@
-# First submission by Malik Akbar
+# First submission by Keanu
 
 ## Screenshot
-![Screenshot](screenshot.png)
+![Screenshot](Screenshot.png)
